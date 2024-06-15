@@ -1,0 +1,60 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://kiraneditz.w3spaces.com/saved-from-Tryit-2024-06-15.html
+Subject: Page Title
+Date: Sat, 15 Jun 2024 12:21:49 +0545
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--4MEqfGj9xEzsdgksXGSSkbH2KOmxPaA3oceUzI4IjW----"
+
+
+------MultipartBoundary--4MEqfGj9xEzsdgksXGSSkbH2KOmxPaA3oceUzI4IjW----
+Content-Type: text/html
+Content-ID: <frame-ECE6EE6944106E7B1BC3E2F4F5B376A5@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://kiraneditz.w3spaces.com/saved-from-Tryit-2024-06-15.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-e4fd3ff5-da15-4ad9-90ec-b6fd4c429f56@mhtml.blink" />
+<title>Page Title</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+<div class="header">
+  <h1>My Website</h1>
+  <p>A website created by me.</p>
+</div>
+
+<div class="navbar">
+  <a href="https://kiraneditz.w3spaces.com/saved-from-Tryit-2024-06-15.html#">Link</a>
+  <a href="https://kiraneditz.w3spaces.com/saved-from-Tryit-2024-06-15.html#">Link</a>
+  <a href="https://kiraneditz.w3spaces.com/saved-from-Tryit-2024-06-15.html#">Link</a>
+  <a href="https://kiraneditz.w3spaces.com/saved-from-Tryit-2024-06-15.html#" class="right">Link</a>
+</div>
+
+
+
+</body></html>
+------MultipartBoundary--4MEqfGj9xEzsdgksXGSSkbH2KOmxPaA3oceUzI4IjW----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-e4fd3ff5-da15-4ad9-90ec-b6fd4c429f56@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, Helvetica, sans-serif; margin: 0px; }
+
+.header { padding: 80px; text-align: center; background: rgb(26, 188, 156); color: white; }
+
+.header h1 { font-size: 40px; }
+
+.navbar { overflow: hidden; background-color: rgb(51, 51, 51); }
+
+.navbar a { float: left; display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none; }
+
+.navbar a.right { float: right; }
+
+.navbar a:hover { background-color: rgb(221, 221, 221); color: black; }
+------MultipartBoundary--4MEqfGj9xEzsdgksXGSSkbH2KOmxPaA3oceUzI4IjW------
